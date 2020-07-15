@@ -6,7 +6,7 @@ Notes:
 - When only numbers in words are inserted, at least an ending space is required.
 - Available for Windows (\Words2Numbers\x64\Release\Words2Numbers.exe)
 - Pending Multiplatform CMake compilation
-
-Dependency: Boost lib v1.73.0 was used (string split)
+- Created with Visual Studio 2019
+- Dependencies: Boost lib v1.73.0 was used (string split)
 
 
