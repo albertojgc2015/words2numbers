@@ -148,7 +148,7 @@ void processUserInput() {
 
 /*
 Assumptions:
-- This program focuses on English.
+- This program supports English "numbers in words" only.
 - This program uses space as separator. Input must contain at least one space.
 
 Corner cases:
